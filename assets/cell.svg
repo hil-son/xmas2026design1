@@ -1,0 +1,8 @@
+<svg preserveAspectRatio="none" overflow="visible" style="display: block;" width="46" height="46" viewBox="0 0 46 46" fill="none" xmlns="http://www.w3.org/2000/svg">
+<g id="Open box 01">
+<rect id="Black interior" x="2.15" y="2.15" width="41.7" height="41.7" fill="#363535" stroke-width="0.3" stroke="#FFE384"/>
+<path id="Recessed right wall" opacity="0.14" d="M44 2L39 7V39L44 44V2Z" fill="white" stroke="black"/>
+<path id="Recessed bottom wall" opacity="0.08" d="M2 44L7 39H39L44 44H2Z" fill="white" stroke="black"/>
+<path id="Recessed top wall" opacity="0.045" d="M2 2H44L39 7H7L2 2Z" fill="white" stroke="black"/>
+</g>
+</svg>
